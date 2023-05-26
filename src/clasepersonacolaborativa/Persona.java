@@ -17,7 +17,15 @@ public class Persona {
             this.apellidos = apellidos;
         }
     }
+    public String getNombre() {
+        return nombre;
+    }
 
-   
+    public String getApellidos() {
+        return apellidos;
+    }
+
+
+   //Tabulacion corregina
     
 }
